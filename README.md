@@ -4,7 +4,7 @@
 Bootstrap project.
 
 
-Recursos para Iconos:
+Recursos para Iconos svg:
 
 www.icofinder.com
 www.flaticon.com
